@@ -298,6 +298,7 @@ python gesture_snake_game.py
 
 ---
 
+
 ## Week 6 – Gesture Controlled Snake Game
 
 ![Week6](Images/week6_gesture_snake.png)
