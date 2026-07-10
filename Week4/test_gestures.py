@@ -8,6 +8,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from Week3.hand_detector import HandDetector
 from Week4 import gestures
 
+
 detector = HandDetector()
 
 cap = cv2.VideoCapture(0)

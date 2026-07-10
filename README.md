@@ -344,4 +344,5 @@ Electrical Engineering Department
 Indian Institute of Technology Bombay
 
 Completed as part of **Web and Coding Club (WnCC) – Seasons of Code 2026**
-
+cd Week4
+python test_gestures.py

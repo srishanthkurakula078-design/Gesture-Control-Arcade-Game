@@ -68,4 +68,3 @@ def classify(lmList, handLabel="Right"):
         return "THUMB"
 
     return "UNKNOWN"
-    
